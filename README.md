@@ -1,4 +1,4 @@
-# MemoryTales
+# Memories
 
 A functional full-stack site where you can create posts and update them real time in the database.
 
